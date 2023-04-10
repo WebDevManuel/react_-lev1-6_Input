@@ -1,0 +1,20 @@
+.App {
+    margin: 10px;
+    padding: 10px;
+    background-color: cornflowerblue;
+    color: floralwhite;
+}
+
+.userInput {
+    display: flex;
+    justify-content: space-between;
+}
+
+input {
+    width: 30%;
+}
+
+.printUserInput {
+    display: flex;
+    flex-direction: column;
+}
